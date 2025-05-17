@@ -5,15 +5,25 @@ This repository contains JMeter test plans for conducting performance and load t
 📁 Project Structure
 
 ├── plans/
+
 │   └── firstPlan.jmx
+
 ├── datasets/
+
 |   ├── auth_dataset.csv
+
 │   └── create_user_dataset.csv
+
 ├── logs/
+
 │   └── firstPlanErrorLogs.xml # Errors only
+
 ├── results/
+
 │   └── results.jtl
+
 ├── README.md
+
 └── .gitignore
 
 🚀 Features
