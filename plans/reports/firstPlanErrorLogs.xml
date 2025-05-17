@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="343" it="0" lt="343" ct="91" ts="1747131222600" s="false" lb="Set Cookies" rc="502" rm="Bad Gateway" tn="Thread Group httpbin.org 1-5" dt="text" by="277" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2300" it="0" lt="2300" ct="90" ts="1747131223200" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-7" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,300 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2459" it="0" lt="2459" ct="90" ts="1747131223500" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-8" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,459 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1679" it="0" lt="1679" ct="91" ts="1747131225000" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-13" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,679 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1029" it="0" lt="1029" ct="89" ts="1747131225903" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-16" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,029 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1534" it="0" lt="1534" ct="87" ts="1747131225602" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-15" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,534 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1335" it="0" lt="1335" ct="90" ts="1747131226501" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-18" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,335 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="3562" it="0" lt="3562" ct="118" ts="1747131224400" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-11" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 3,562 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1087" it="0" lt="1087" ct="89" ts="1747131227101" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-20" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,087 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1445" it="0" lt="1445" ct="90" ts="1747131229501" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-28" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,445 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1303" it="0" lt="1303" ct="90" ts="1747131229803" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-29" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,303 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1336" it="0" lt="1336" ct="89" ts="1747131232200" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-37" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,336 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1505" it="0" lt="1505" ct="90" ts="1747131232500" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-38" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,505 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1069" it="0" lt="1069" ct="88" ts="1747131234303" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-44" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,069 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1555" it="0" lt="1555" ct="91" ts="1747131234900" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-46" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,555 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1115" it="0" lt="1115" ct="91" ts="1747131236100" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-50" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,115 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1533" it="0" lt="1533" ct="91" ts="1747131235802" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-49" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,533 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1168" it="0" lt="1168" ct="89" ts="1747131238202" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-57" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,168 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1939" it="0" lt="1938" ct="90" ts="1747131237901" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-56" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,939 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1546" it="0" lt="1546" ct="90" ts="1747131238500" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-58" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,546 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1588" it="0" lt="1588" ct="91" ts="1747131239402" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-61" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,588 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1684" it="0" lt="1684" ct="91" ts="1747131240600" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-65" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,684 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2043" it="0" lt="2042" ct="91" ts="1747131240300" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-64" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,043 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1634" it="0" lt="1634" ct="91" ts="1747131240901" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-66" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,634 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2159" it="0" lt="2159" ct="90" ts="1747131241502" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-68" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,159 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1016" it="0" lt="1016" ct="92" ts="1747131243003" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-73" dt="text" by="275" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,016 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1335" it="0" lt="1335" ct="87" ts="1747131244202" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-77" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,335 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1110" it="0" lt="1110" ct="89" ts="1747131245102" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-80" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,110 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1658" it="0" lt="1658" ct="91" ts="1747131244802" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-79" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,658 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1235" it="0" lt="1235" ct="88" ts="1747131246600" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-85" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,235 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1074" it="0" lt="1074" ct="90" ts="1747131248701" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-92" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,074 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1035" it="0" lt="1035" ct="90" ts="1747131249000" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-93" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,035 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1195" it="0" lt="1195" ct="89" ts="1747131249600" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-95" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,195 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2616" it="0" lt="2616" ct="89" ts="1747131248399" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-91" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,616 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1811" it="0" lt="1811" ct="88" ts="1747131249300" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-94" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,811 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1327" it="0" lt="1327" ct="88" ts="1747131250201" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-97" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,327 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1217" it="0" lt="1217" ct="91" ts="1747131251099" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-100" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,217 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2073" it="0" lt="2073" ct="89" ts="1747131250799" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-99" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,073 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2253" it="0" lt="2253" ct="91" ts="1747131252301" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-104" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,253 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1289" it="0" lt="1289" ct="90" ts="1747131253502" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-108" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,289 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2990" it="0" lt="2990" ct="91" ts="1747131252602" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-105" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,990 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2010" it="0" lt="2010" ct="92" ts="1747131254100" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-110" dt="text" by="275" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,010 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1350" it="0" lt="1350" ct="90" ts="1747131256800" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-119" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,350 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1229" it="0" lt="1229" ct="93" ts="1747131257400" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-121" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,229 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2228" it="0" lt="2228" ct="94" ts="1747131256502" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-118" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,228 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1998" it="0" lt="1998" ct="90" ts="1747131257101" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-120" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,998 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1695" it="0" lt="1695" ct="91" ts="1747131258000" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-123" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,695 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1015" it="0" lt="1015" ct="90" ts="1747131260100" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-130" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,015 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1530" it="0" lt="1530" ct="95" ts="1747131259800" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-129" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,530 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1238" it="0" lt="1238" ct="90" ts="1747131261303" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-134" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,238 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="3052" it="0" lt="3052" ct="90" ts="1747131260700" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-132" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 3,052 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1834" it="0" lt="1834" ct="89" ts="1747131262200" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-137" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,834 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1575" it="0" lt="1575" ct="89" ts="1747131262800" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-139" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,575 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1822" it="0" lt="1822" ct="88" ts="1747131264000" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-143" dt="text" by="275" sby="146" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,822 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1474" it="0" lt="1474" ct="89" ts="1747131264900" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-146" dt="text" by="275" sby="146" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,474 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1279" it="0" lt="1279" ct="91" ts="1747131265199" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-147" dt="text" by="275" sby="146" ng="6" na="6">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,279 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1156" it="0" lt="1156" ct="90" ts="1747131265500" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-148" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,156 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2467" it="0" lt="2467" ct="92" ts="1747131264299" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-144" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,467 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="258" it="0" lt="258" ct="88" ts="1747131266701" s="false" lb="Set Cookies" rc="502" rm="Bad Gateway" tn="Thread Group httpbin.org 1-152" dt="text" by="277" sby="150" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies/set</java.net.URL>
+</httpSample>
+<httpSample t="1011" it="0" lt="1011" ct="90" ts="1747131266103" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-150" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,011 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1356" it="0" lt="1356" ct="91" ts="1747131265800" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-149" dt="text" by="275" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,356 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1620" it="0" lt="1620" ct="90" ts="1747131267302" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-154" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,620 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1162" it="0" lt="1162" ct="98" ts="1747131269401" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-161" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,162 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1180" it="0" lt="1180" ct="154" ts="1747131269703" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-162" dt="text" by="275" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,180 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1925" it="0" lt="1925" ct="91" ts="1747131271202" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-167" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,925 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1452" it="0" lt="1452" ct="90" ts="1747131271801" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-169" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,452 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1558" it="0" lt="1558" ct="90" ts="1747131272700" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-172" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,558 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1168" it="0" lt="1168" ct="91" ts="1747131273601" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-175" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,168 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1221" it="0" lt="1221" ct="92" ts="1747131273900" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-176" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,221 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1154" it="0" lt="1153" ct="98" ts="1747131274501" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-178" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,154 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1383" it="0" lt="1382" ct="91" ts="1747131274800" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-179" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,383 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1541" it="0" lt="1541" ct="92" ts="1747131275100" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-180" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,541 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1343" it="0" lt="1343" ct="90" ts="1747131275400" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-181" dt="text" by="275" sby="146" ng="2" na="2">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,343 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1082" it="0" lt="1082" ct="90" ts="1747131276900" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-186" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,082 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="1127" it="0" lt="1127" ct="112" ts="1747131279300" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-194" dt="text" by="275" sby="146" ng="5" na="5">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 1,127 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="3709" it="0" lt="3709" ct="92" ts="1747131277200" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-187" dt="text" by="275" sby="146" ng="4" na="4">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 3,709 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+<httpSample t="2837" it="0" lt="2837" ct="91" ts="1747131278100" s="false" lb="Set Cookies" rc="200" rm="OK" tn="Thread Group httpbin.org 1-190" dt="text" by="275" sby="146" ng="3" na="3">
+  <assertionResult>
+    <name>Duration Assertion</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>The operation lasted too long: It took 2,837 milliseconds, but should not have lasted longer than 1,000 milliseconds.</failureMessage>
+  </assertionResult>
+  <java.net.URL>http://httpbin.org/cookies</java.net.URL>
+</httpSample>
+
+</testResults>
