@@ -3,7 +3,10 @@ Ignore JMeter result files and reports
 results/
 *.jtl
 *.csv
+
+logs/
 *.log
+*.xml
 
 Ignore HTML reports
 
