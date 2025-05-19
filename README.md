@@ -6,7 +6,9 @@ This repository contains JMeter test plans for conducting performance and load t
 
 ├── plans/
 
-│   └── firstPlan.jmx
+|   ├── Test Plan httpbin.org.jmx
+
+│   └── Test Plan reqres.in.jmx
 
 ├── datasets/
 
@@ -16,7 +18,7 @@ This repository contains JMeter test plans for conducting performance and load t
 
 ├── logs/
 
-│   └── firstPlanErrorLogs.xml # Errors only
+│   └── TestPlanHttpbinErrorLogs.xml # Errors only
 
 ├── results/
 
