@@ -1,0 +1,32 @@
+Ignore JMeter result files and reports
+
+results/
+*.jtl
+*.csv
+*.log
+
+Ignore HTML reports
+
+html-report/
+
+Ignore system files
+
+.DS_Store
+Thumbs.db
+
+Ignore IDE/project config files
+
+.idea/
+*.iml
+.vscode/
+
+Ignore OS-specific files
+
+*.swp
+*.swo
+
+Node or Python artifacts (if present)
+
+node_modules/
+pycache/
+
